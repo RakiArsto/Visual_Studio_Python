@@ -15,6 +15,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "QuickSort", "QuickSort\Quic
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HeapSort", "HeapSort\HeapSort.pyproj", "{38DC5F37-525C-492E-9073-70712F5A2A94}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CountingSort", "CountingSort\CountingSort.pyproj", "{8EA75F24-F01E-4392-9A96-46841294D59E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,8 @@ Global
 		{ED470728-9563-468E-BB37-C2FA4512ACEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38DC5F37-525C-492E-9073-70712F5A2A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{38DC5F37-525C-492E-9073-70712F5A2A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA75F24-F01E-4392-9A96-46841294D59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA75F24-F01E-4392-9A96-46841294D59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

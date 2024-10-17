@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSProjects\\Python\\SortingAlgorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA75F24-F01E-4392-9A96-46841294D59E}|CountingSort\\CountingSort.pyproj|D:\\VSProjects\\Python\\SortingAlgorithms\\CountingSort\\CountingSort.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EA75F24-F01E-4392-9A96-46841294D59E}|CountingSort\\CountingSort.pyproj|solutionrelative:CountingSort\\CountingSort.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountingSort.py",
+              "DocumentMoniker": "D:\\VSProjects\\Python\\SortingAlgorithms\\CountingSort\\CountingSort.py",
+              "RelativeDocumentMoniker": "CountingSort\\CountingSort.py",
+              "ToolTip": "D:\\VSProjects\\Python\\SortingAlgorithms\\CountingSort\\CountingSort.py",
+              "RelativeToolTip": "CountingSort\\CountingSort.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-17T08:50:02.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
